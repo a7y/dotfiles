@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"Base16 Color Schemes",
+		"BracketHighlighter",
+		"DocBlockr",
+		"GitGutter",
+		"GoSublime",
+		"Markdown Preview",
+		"Package Control",
+		"Phpcs",
+		"phpfmt",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"SideBarFolders"
+	]
+}
