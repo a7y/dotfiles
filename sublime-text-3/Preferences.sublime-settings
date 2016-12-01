@@ -6,6 +6,14 @@
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules"
+	],
 	"font_face": "Hack",
 	"font_size": 10,
 	"highlight_line": true,
@@ -21,6 +29,5 @@
 	"theme": "Seti.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"update_check": false,
-	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", "node_modules"]
+	"update_check": false
 }
