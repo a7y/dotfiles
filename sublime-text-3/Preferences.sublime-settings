@@ -1,7 +1,7 @@
 {
 	"Seti_bold_slctdtab_labels": true,
 	"bold_folder_labels": true,
-	"close_windows_when_empty": true,
+	"close_windows_when_empty": false,
 	"color_scheme": "Packages/Base16 Color Schemes/Themes/base16-chalk.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
