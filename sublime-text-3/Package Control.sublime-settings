@@ -19,7 +19,6 @@
 		"phpfmt",
 		"Sass",
 		"Seti_UI",
-		"SideBarEnhancements",
-		"SideBarFolders"
+		"SideBarEnhancements"
 	]
 }
