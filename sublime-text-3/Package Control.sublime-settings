@@ -19,6 +19,7 @@
 		"phpfmt",
 		"Sass",
 		"Seti_UI",
-		"SideBarEnhancements"
+		"SideBarEnhancements",
+		"Xdebug Client"
 	]
 }
