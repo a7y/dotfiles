@@ -2,12 +2,6 @@
 	"user_brackets": [
 		{
 			"name": "php_angle",
-			"open": "(<\\?)(?:php)?",
-			"close": "(\\?>)",
-			"style": "angle",
-			"scope_exclude": ["string", "comment", "keyword.operator"],
-			"language_filter": "whitelist",
-			"language_list": ["HTML", "HTML 5", "PHP"],
 			"enabled": false,
 		}
 	],
