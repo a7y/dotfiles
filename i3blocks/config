@@ -25,19 +25,19 @@ separator_block_width=15
 markup=none
 
 [volume]
-label=
+label=🔊
 instance=Master
 interval=once
 signal=10
 
 [iface]
-label=
+label=🌐
 color=#00FF00
 interval=10
 separator=false
 
 [wifi]
-label=
+label=⬍
 instance=wlp2s0
 interval=10
 separator=false
@@ -46,12 +46,12 @@ separator=false
 interval=5
 
 [load_average]
-label=
+label=⌛
 interval=10
 separator=false
 
 [memory]
-label=
+label=🧠
 interval=30
 separator=false
 
@@ -62,15 +62,15 @@ separator=false
 #interval=30
 
 [disk]
-label=
+label=🖿
 interval=30
 
 [battery]
-label=
+label=⏻
 instance=0
 interval=30
 
 [time]
-label=
+label=📅
 command=date '+%a / %b %d %Y / %I:%M:%S %p'
 interval=5
